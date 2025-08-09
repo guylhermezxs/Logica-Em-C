@@ -1,15 +1,19 @@
 # Lógica de Programação em C
 
-Este repositório contém uma coleção de exercícios, exemplos e pequenos projetos desenvolvidos em linguagem C, voltados para o estudo e prática da lógica de programação. O foco principal é fortalecer conceitos básicos e intermediários como:
+Repositório com exercícios, exemplos e anotações para aprendizado de lógica de programação utilizando a linguagem C. Ideal para organizar estudos e praticar conceitos fundamentais da programação.
 
-- Estruturas de controle (if, else, switch, loops)
-- Funções e procedimentos
-- Manipulação de arrays (vetores e matrizes)
-- Entrada e saída de dados
-- Operações matemáticas e lógicas
-- Tratamento de erros básicos
-- Exercícios práticos para fixação dos conceitos
+## Conteúdo
 
-O objetivo é ajudar estudantes e programadores iniciantes a desenvolverem uma base sólida em lógica de programação utilizando C, preparando para desafios maiores em desenvolvimento de sistemas.
+- Exercícios básicos e intermediários em C
+- Uso de variáveis e tipos de dados
+- Estruturas condicionais (if, else, switch)
+- Laços de repetição (for, while, do-while)
+- Funções e passagem de parâmetros
+- Manipulação de arrays e ponteiros
+- Introdução ao tratamento de erros e depuração
 
-Sinta-se à vontade para explorar os códigos, testar os exercícios e contribuir com melhorias!
+## Objetivo
+
+- Desenvolver o raciocínio lógico por meio da linguagem C
+- Criar uma base sólida para programação estruturada
+- Compartilhar códigos para aprendizado e revisão
